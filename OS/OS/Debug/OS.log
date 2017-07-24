@@ -1,0 +1,6 @@
+﻿  OS.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+c:\users\dotca\documents\visual studio 2015\projects\os\os\resource.h(30): warning C4005: 'ID_FILE_PRINT': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxres.h(221): note: see previous definition of 'ID_FILE_PRINT'
+  OS.vcxproj -> C:\Users\dotca\documents\visual studio 2015\Projects\OS\Debug\OS.exe
+  OS.vcxproj -> C:\Users\dotca\documents\visual studio 2015\Projects\OS\Debug\OS.pdb (Full PDB)
